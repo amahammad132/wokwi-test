@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The circuit uses two D-Flip Flops to create a 3-state FSM that cycles between states at every clock edge.
 
 ## How to test
 
-Explain how to use your project
+View the traffic light states to see if it cycles properly.
 
 ## External hardware
 
